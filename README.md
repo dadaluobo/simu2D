@@ -1,2 +1,3 @@
 # simu2D
-Practice project for solving PDE
+
+Solve Schrodinger's Eqs in 2D
